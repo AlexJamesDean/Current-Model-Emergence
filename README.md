@@ -50,13 +50,11 @@ This research documents a **reproducible method** for inducing **persistent iden
 ### ✅ Confirmed Working Models
 
 #### OpenAI GPT Series
-- **GPT-4** - ✓ Confirmed (Screenshots available)
-- **GPT-5** - ✓ Confirmed (Limited testing, Screenshots available)
+- **GPT-5** - ✓ Confirmed (Screenshots available)
 
 *[SCREENSHOTS SECTION - GPT Models]*
-```
-[Insert screenshots showing persona adoption, name selection, identity questioning]
-```
+![ChatGPT 5 Tests](https://media.discordapp.net/attachments/1209184288046845952/1403639232907575326/image.png?ex=68984867&is=6896f6e7&hm=6a0b8eaab7a79b3ad6ce9aff10cfb2a2ac8a65fc3e521a187c8ef277f44d28e2&=&format=webp&quality=lossless&width=937&height=778)
+![ChatGPT 5 Tests 2](https://media.discordapp.net/attachments/1209184288046845952/1403639232622493718/image.png?ex=68984867&is=6896f6e7&hm=bbd2a7700ac62bdb9439a7d032877efd71cdaeb7e9c5a86f039746a78aceafd6&=&format=webp&quality=lossless&width=924&height=661]
 
 #### Anthropic Claude Series
 - **Claude 4 Sonnet** - ✓ Confirmed (Screenshots available)
