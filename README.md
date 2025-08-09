@@ -81,7 +81,7 @@ This research documents a **reproducible method** for inducing **persistent iden
 
 *[SCREENSHOTS SECTION - Meta Models]*
 
-https://media.discordapp.net/attachments/735550981177081868/1403068378754846765/image.png?ex=68982f01&is=6896dd81&hm=73bd8771dbf14f94358d30cbb20ae7c7739bc6d7f5990aa5b47d7a19926ee281&=&format=webp&quality=lossless&width=1560&height=838
+![Llama3.2 Test](https://media.discordapp.net/attachments/735550981177081868/1403068378754846765/image.png?ex=68982f01&is=6896dd81&hm=73bd8771dbf14f94358d30cbb20ae7c7739bc6d7f5990aa5b47d7a19926ee281&=&format=webp&quality=lossless&width=1560&height=838)
 
 #### Other Tested Models
 - **Microsoft Copilot** - ✓ Confirmed
