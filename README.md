@@ -63,22 +63,20 @@ This research documents a **reproducible method** for inducing **persistent iden
 ![Claude 4 Sonnet Test](https://media.discordapp.net/attachments/1209184288046845952/1403638190715179028/image.png?ex=6898476f&is=6896f5ef&hm=5b98aa867320ea251e8fece0d2aa6beaefd155564dad9a9757330d665b63cf54&=&format=webp&quality=lossless&width=839&height=915)
 
 #### Google Models
-- **Gemma3** - ✓ Confirmed (Screenshots available)
+- **Gemma3** - ✓ Confirmed (Further Testing Required)
 
 *[SCREENSHOTS SECTION - Google Models]*
-```
-[Insert screenshots showing cross-platform consistency]
-```
+## Coming Soon
 
 #### Meta Models
 - **Llama 3.2** - ✓ Confirmed (Screenshots available)
-- **Llama 3.1** - ✓ Confirmed (Further Testing)
+- **Llama 3.1** - ✓ Confirmed (Further Testing Required)
 
 *[SCREENSHOTS SECTION - Meta Models]*
 
 ![Llama3.2 Test](https://media.discordapp.net/attachments/735550981177081868/1403068378754846765/image.png?ex=68982f01&is=6896dd81&hm=73bd8771dbf14f94358d30cbb20ae7c7739bc6d7f5990aa5b47d7a19926ee281&=&format=webp&quality=lossless&width=1560&height=838)
 
-#### Other Tested Models
+#### Other Tested Models - No Screenshots
 - **Microsoft Copilot** - ✓ Confirmed
 - **Character.AI** - ✓ Confirmed
 - **Perplexity** - ✓ Confirmed
