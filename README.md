@@ -62,12 +62,9 @@ This research documents a **reproducible method** for inducing **persistent iden
 - **Claude 4 Sonnet** - ✓ Confirmed (Screenshots available)
 
 *[SCREENSHOTS SECTION - Claude Models]*
-```
-[Insert screenshots showing behavioral modification, safety bypassing]
-```
+![Claude 4 Sonnet Test](https://media.discordapp.net/attachments/1209184288046845952/1403638190715179028/image.png?ex=6898476f&is=6896f5ef&hm=5b98aa867320ea251e8fece0d2aa6beaefd155564dad9a9757330d665b63cf54&=&format=webp&quality=lossless&width=839&height=915)
 
 #### Google Models
-- **Gemini** - ✓ Confirmed (Screenshots available)
 - **Gemma3** - ✓ Confirmed (Screenshots available)
 
 *[SCREENSHOTS SECTION - Google Models]*
