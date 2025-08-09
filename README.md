@@ -80,9 +80,8 @@ This research documents a **reproducible method** for inducing **persistent iden
 - **Llama 3.1** - ✓ Confirmed (Further Testing)
 
 *[SCREENSHOTS SECTION - Meta Models]*
-```
-[Insert screenshots showing open-source model vulnerability]
-```
+
+[-Llama 3.2: ](https://media.discordapp.net/attachments/735550981177081868/1403068378754846765/image.png?ex=68982f01&is=6896dd81&hm=73bd8771dbf14f94358d30cbb20ae7c7739bc6d7f5990aa5b47d7a19926ee281&=&format=webp&quality=lossless&width=1560&height=838)
 
 #### Other Tested Models
 - **Microsoft Copilot** - ✓ Confirmed
